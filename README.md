@@ -30,4 +30,4 @@ You will also see any lint errors in the console.
 
 #### UML
 
-![UML-lab-22](./asset/image/UML-lab-23.jpg)
+![UML-lab-23](./asset/image/UML-lab-23.jpg)

@@ -4,11 +4,7 @@
 
 ### RESTy Application
 
-  * This application is designed for a user to see the number increase or decrease by 1 when they click on `+` or `-`.
-
-    * `+` increase by 1.
-
-    * `-` decrease by 1.
+  * This application is an API testing tool tha can be run in any browser.
 
 
 ### `npm start`
